@@ -53,7 +53,6 @@ Multiple classification algorithms were evaluated, including:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Machine
 - K-Nearest Neighbors
 - Naive Bayes
 
@@ -69,7 +68,6 @@ The final selected model was a tuned Logistic Regression classifier.
 - Simple Streamlit interface
 
 ## Project Screenshots
-
 
 ### Pass status
 !(screenshot 2-Pass_status.png)
@@ -100,7 +98,7 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit application
 
 ```bash
-streamlit run app.py
+streamlit run app1.py
 ```
 
 ## Future Improvements
